@@ -1,8 +1,12 @@
 # Mazeh downloads
 
-Files that Mazeh downloads, or that people download to install it. Mazeh translates Hebrew on screen into English: https://spirertech.com/mazeh/
+Files that Mazeh downloads, or that people download to install it. Mazeh translates Hebrew on screen into English, and on Windows also into Russian or French: https://spirertech.com/mazeh/
 
 This repository holds release files only. The apps' source code is not here.
+
+## Mazeh for Windows
+
+The newest setup program, for Windows 11 on x64 and ARM64 PCs: https://github.com/tspirer83/mazeh-downloads/releases/latest/download/Mazeh-Setup.exe
 
 ## Translation model for Windows
 
